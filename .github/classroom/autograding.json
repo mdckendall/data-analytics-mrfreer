@@ -5,7 +5,7 @@
       "setup": "javac Main.java",
       "run": "java -classpath .:target/dependency/* Main",
       "input": "1\r\n5",
-      "output": "Press 1 to learn about salary.\r\nPress 2 to learn about the job.\r\nPress 3 to learn about demand.\r\nPress 4 to view current students.\r\nPress 5 to quit.\r\n1\r\n$98,345 average salary in South Florida!\r\nPress 1 to learn about salary.\r\nPress 2 to learn about the job.\r\nPress 3 to learn about demand.\r\nPress 4 to view current students.\r\nPress 5 to quit.",
+      "output": "Press 1 to learn about salary.\r\nPress 2 to learn about the job.\r\nPress 3 to learn about demand.\r\nPress 4 to view current students.\r\nPress 5 to quit.\r\n$98,345 average salary in South Florida!\r\nPress 1 to learn about salary.\r\nPress 2 to learn about the job.\r\nPress 3 to learn about demand.\r\nPress 4 to view current students.\r\nPress 5 to quit.",
       "comparison": "included",
       "timeout": 10,
       "points": 20
